@@ -4,23 +4,33 @@ Kullanıcılar (müşteriler) şehir ve ilçe bazlı filtreleme yaparak tüccarl
 
 ## ✨ Temel Özellikler
 
-### 👥 Müşteri Arayüzü
+### 👥 Müşteri Paneli
 -**Lokasyon Bazlı Filtreleme:** Şehir ve ilçe seçimi ile hedeflenen bölgedeki tüccarlara anında erişim.
+
 -**Güncel Veri Akışı:** Firma adı, telefon, adres ve en güncel fındık fiyatlarının görüntülenmesi.
+
 -**Dinamik UI:** Seçilen şehre göre otomatik yüklenen ilçe listesi.rme.
 
 ### 🧑‍💼 Yönetici Paneli (Admin)
 -**Güvenli Giriş:** Kullanıcı adı ve şifre ile korunan yönetim paneli.
+
 -**CRUD İşlemleri:**
    Ekleme: Yeni tüccar kaydı oluşturma (Şehir/İlçe bağlantılı).
+   
    Güncelleme: Mevcut tüccar bilgilerini ve fiyatlarını revize etme.
+   
    Silme: Sistemden tüccar kaydını kaldırma.
 
 ### 🛠️ Kullanılan Teknolojiler
+
 **Python (Flask):** Web framework.
+
 **MySQL:** Veritabanı yönetimi.
+
 **HTML5 & CSS3:** Kullanıcı arayüzü tasarımı.
+
 **PyMySQL:** Python ve MySQL bağlantısı için.
+
 **Jinja2:** HTML şablon motoru.
 
 ### ⚙️ Kurulum ve Yapılandırma
