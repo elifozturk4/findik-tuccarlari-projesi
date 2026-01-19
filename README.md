@@ -13,7 +13,7 @@ Kullanıcılar (müşteriler) şehir ve ilçe bazlı filtreleme yaparak tüccarl
 
 -**Dinamik UI:** Seçilen şehre göre otomatik yüklenen ilçe listesi.rme.
 
-### 🧑‍💼 Yönetici Paneli (Admin)
+### 🧑‍💼 Yönetici Paneli
 -**Güvenli Giriş:** Kullanıcı adı ve şifre ile korunan yönetim paneli.
 
 -**CRUD İşlemleri:**
